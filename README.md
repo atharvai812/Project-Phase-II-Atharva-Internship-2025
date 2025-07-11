@@ -98,8 +98,8 @@ Cybersecurity-Internship-Binary10/
 
 ## 🏆 Certifications Earned
 
-- ✅ **Google Cybersecurity Specialization** (Coursera)
-- ✅ **SecureLayer7 Web Security Training**
+- ✅ **Google Cybersecurity** (Coursera)
+- ✅ **SecureLayer7 Web & Network Security Training**
 - ✅ **Operational Technology Security Workshop – Huddle**
 
 ---
@@ -113,7 +113,7 @@ All documents and files shared in this repository are **anonymized**, **redacted
 ## 📬 Contact
 
 **Atharva Atul Inamdar**  
-📧 atharvainamdar03@gmail.com  
+📧 aainamdar.cse@gmail.com  
 🔗 [linkedin.com/in/atharva-inamdar](https://linkedin.com/in/atharva-inamdar)
 
 ---
